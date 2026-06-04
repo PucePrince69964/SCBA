@@ -129,6 +129,12 @@ http://127.0.0.1:5000 (ou porta do backend Flask)
 Caso esteja usando Live Server do VS Code, abra o arquivo register.html diretamente.
 ```
 
+### 8. Envio da planilha de exemplo
+Envie a planilha Exemplo.xlsx,que está na pasta .\acessos
+```
+.\acessos\Exemplos.xlsx
+```
+
 ## Problemas comuns
 ### Erro: módulo não encontrado
 pip install -r requirements.txt
