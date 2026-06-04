@@ -92,7 +92,7 @@ Sistema de Cadastro de Benefícios Automatizado (SCBA)/
 ### 2. Clonar o repositório
 ```
 git clone https://github.com/PucePrince69964/SCBA.git
-cd scba
+cd SCBA
 ```
 
 ### 3. Criar ambiente virtual
